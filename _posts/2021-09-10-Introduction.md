@@ -6,3 +6,6 @@ author:
 - Vickey
 
 meta:
+Welcome!
+
+[Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
