@@ -1,6 +1,4 @@
----
-layout: post
-title: "Introduction"
+## Introduction
 categories: Studio Process
 author:
 - Vickey
@@ -8,4 +6,4 @@ author:
 meta:
 Welcome!
 
-[Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
+[Growing Home](https://vickeyxxxx.github.io/Portfolio/)
