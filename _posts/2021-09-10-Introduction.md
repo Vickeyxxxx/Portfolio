@@ -5,7 +5,8 @@ categories: Studio Process
 author:
 - Vickey
 ---
-![919553318938205542](https://user-images.githubusercontent.com/90567603/133259087-e0dab56f-05f1-4dfa-abc5-d9fc23e3fe93.jpg)
+![919553318938205542](https://user-images.githubusercontent.com/90567603/133259652-b195c5a1-3f5e-452e-a16a-009fdd9941a3.jpg)
+
 
 ## Introduction
 categories: Studio Process
