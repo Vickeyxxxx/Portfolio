@@ -39,5 +39,6 @@ I wanted the Tiny Home to be small in size, but to meet the needs of different p
 ### Technologies
 ![02_µ•‘™◊›œÚ◊È∫œ](https://user-images.githubusercontent.com/90567603/133110941-858ac20f-2b66-40df-9385-15dcba3aa330.jpg)
 [Combining furniture with structure](https://www.archdaily.com.br/br/01-124339/casa-micro-slash-studio-liu-lubin)
+![024-DD16-by-BIO-Architects-960x640](https://user-images.githubusercontent.com/90567603/134299017-8328bba8-d64e-4f55-a430-bcf98782f195.jpg)
 
 ###  material
