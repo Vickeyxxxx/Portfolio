@@ -14,7 +14,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 theme: minima
 minima:
   date_format: "%b %-d, %Y"
-
+skin: drak
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
