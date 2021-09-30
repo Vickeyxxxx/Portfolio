@@ -27,13 +27,7 @@ I wanted the Tiny Home to be small in size, but to meet the needs of different p
 
 ## Purpose Description
 ### The Problem
-
-## define a client
-### Population Type
-water 
-### Habits
-
-## Site
+According to the rules of the competition, in Salt Lake City, people are facing a housing shortage problem. We need to go through a series of design pushes to solve people's housing problems. The housing needs to be as affordable as possible, with features such as sustainability or environmental friendliness.
 
 ## Reference
 ![DJI_0229](https://user-images.githubusercontent.com/90567603/134610948-f5f49ca2-1c04-4ba1-81de-5a892a03f797.jpg)
@@ -43,5 +37,3 @@ water
 [Combining furniture with structure](https://www.archdaily.com.br/br/01-124339/casa-micro-slash-studio-liu-lubin)
 ![024-DD16-by-BIO-Architects-960x640](https://user-images.githubusercontent.com/90567603/134299017-8328bba8-d64e-4f55-a430-bcf98782f195.jpg)
 
-
-###  material
