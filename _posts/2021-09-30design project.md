@@ -21,14 +21,9 @@
 
 ![12p](https://user-images.githubusercontent.com/90567603/135548283-de4a7eec-ac47-49c2-8a87-65b4ec6b3bf8.jpg)
 [模型3.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263254/3.pdf)
-
-
-
-
-
 ### PHOTOSPERE
 ## Interior Photosphere
-https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/LPm3gNFVWxBX7ol.jpg&title=Growing%20home%20-inside1&author=vickey
-https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/Y41fOl2LR6BNVIW.jpg&title=Growing%20home%20-inside2&author=vickey
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/c2CxL5pJXGQ7v6b.jpg&title=Growing%20home%20-outside&author=vickey&autoLoad=true"></iframe><iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/mXM6cEWLSrQaJHu.jpg&title=Growing%20home%20-inside&author=vickey&autoLoad=true"></iframe>
 ## Exterior photosphere
-https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/UjRBDGLnY4wNeCu.jpg&title=Growing%20home%20-outside&author=vickey
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/UjRBDGLnY4wNeCu.jpg&title=Growing%20home%20-outside&author=vickey&autoLoad=true"></iframe>
+
