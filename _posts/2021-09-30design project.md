@@ -16,6 +16,9 @@ Welcome!
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/UjRBDGLnY4wNeCu.jpg&title=Growing%20home%20-outside&author=vickey&autoLoad=true"></iframe>
 
 
+### GIF
+![66956111757967051](https://user-images.githubusercontent.com/90567603/135563537-3645f4d0-1e60-4f59-baec-ad7394a43a0e.gif)
+
 ### PLAN
 ![1p](https://user-images.githubusercontent.com/90567603/135546522-b89e1e02-ed7d-4c82-9185-7c7199045155.jpg)
 [plan1.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263181/plan1.pdf)
