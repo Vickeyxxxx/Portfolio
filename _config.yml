@@ -2,7 +2,7 @@
   author:
   name: vickey
   email: xiongsi@kean.edu
-  description: > # this means to ignore newlines until "show_excerpts:"
+description: > # this means to ignore newlines until "show_excerpts:"
   Hi I am Vickey
   
 show_excerpts: true # set to true to show excerpts on the homepage
