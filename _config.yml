@@ -1,9 +1,9 @@
-title: growing home for you
-author:
+  title: growing home for you
+  author:
   name: vickey
   email: xiongsi@kean.edu
-description: > # this means to ignore newlines until "show_excerpts:"
-  Hi! I am Vickey
+  description: > # this means to ignore newlines until "show_excerpts:"
+  Hi I am Vickey
   
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -12,7 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 theme: minima
 minima:
   date_format: "%b %-d, %Y"
-skin: drak
+  skin: drak
+  
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
@@ -50,9 +51,6 @@ skin: drak
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
-
-# Build settings
-theme: minima
 
 plugins:
  - jekyll-feed
