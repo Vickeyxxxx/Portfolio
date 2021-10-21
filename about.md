@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 ### PLAN
+## old (10/1)
 ![1p](https://user-images.githubusercontent.com/90567603/135546522-b89e1e02-ed7d-4c82-9185-7c7199045155.jpg)
-[plan1.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263181/plan1.pdf)
-
 ![2p](https://user-images.githubusercontent.com/90567603/135546739-96c8980a-152d-4a37-8024-a0f538ff4cf2.jpg)
-[plan2.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263185/plan2.pdf)
+
+## (10/22)
+![plan最终2](https://user-images.githubusercontent.com/90567603/138323144-b6f00f60-cc7f-4acb-af8b-9728b6cc29f4.png)
 
 ### SECTION
+## old (10/1)
 ![1s](https://user-images.githubusercontent.com/90567603/135546862-a56718c8-2903-4bc4-ac34-1c520153bb8a.jpg)
-[section.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263190/section.pdf)
+
+## (10/22)
+![1s](https://user-images.githubusercontent.com/90567603/138323824-42bea40c-46f3-47dd-a380-928a4b0da901.png)
+
+### ELEVATION
+![2e](https://user-images.githubusercontent.com/90567603/138324053-57b89229-bbb0-43a0-b5b1-1dd4ac57cb4c.png)
 
 ### DETAIL IMAGES
 ![微信图片_20211001074956](https://user-images.githubusercontent.com/90567603/135547924-1768132d-e1a0-4000-9f3e-b969bd3778af.png)
