@@ -3,45 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-### PLAN
-## old (10/1)
-![1p](https://user-images.githubusercontent.com/90567603/135546522-b89e1e02-ed7d-4c82-9185-7c7199045155.jpg)
-![2p](https://user-images.githubusercontent.com/90567603/135546739-96c8980a-152d-4a37-8024-a0f538ff4cf2.jpg)
+![1](https://user-images.githubusercontent.com/90567603/146563233-eb1afab1-0606-416e-8c4f-6248504fd526.jpg)
 
-## (10/22)
-![plan最终2](https://user-images.githubusercontent.com/90567603/138323144-b6f00f60-cc7f-4acb-af8b-9728b6cc29f4.png)
+### 
 
-### SECTION
-## old (10/1)
-![1s](https://user-images.githubusercontent.com/90567603/135546862-a56718c8-2903-4bc4-ac34-1c520153bb8a.jpg)
-
-## (10/22)
-![1s](https://user-images.githubusercontent.com/90567603/138323824-42bea40c-46f3-47dd-a380-928a4b0da901.png)
-
-### ELEVATION
-![2e](https://user-images.githubusercontent.com/90567603/138324053-57b89229-bbb0-43a0-b5b1-1dd4ac57cb4c.png)
-
-### DETAIL IMAGES
-![微信图片_20211001074956](https://user-images.githubusercontent.com/90567603/135547924-1768132d-e1a0-4000-9f3e-b969bd3778af.png)
-![微信图片_20211001075310](https://user-images.githubusercontent.com/90567603/135547948-b6ffd629-f15b-42a5-9bd8-1f9d3be8ed86.png)
-
-![11p](https://user-images.githubusercontent.com/90567603/135548190-0fda2d32-d88d-4ff3-bb48-ded8b61fab82.jpg)
-[模型3.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263252/3.pdf)
-
-![微信图片_20211001074812](https://user-images.githubusercontent.com/90567603/135548267-aee5b217-4feb-42e3-88a6-82a65d6832c0.png)
-[模型2.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263253/2.pdf)
-
-![12p](https://user-images.githubusercontent.com/90567603/135548283-de4a7eec-ac47-49c2-8a87-65b4ec6b3bf8.jpg)
-[模型3.pdf](https://github.com/Vickeyxxxx/Portfolio/files/7263254/3.pdf)
-
-
-
-
-
-### PHOTOSPERE
-## Interior Photosphere
-https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/LPm3gNFVWxBX7ol.jpg&title=Growing%20home%20-inside1&author=vickey
-https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/Y41fOl2LR6BNVIW.jpg&title=Growing%20home%20-inside2&author=vickey
-## Exterior photosphere
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/UjRBDGLnY4wNeCu.jpg&title=Growing%20home%20-outside&author=vickey&autoLoad=true"></iframe>
-
+### Final poster
+![b350fb4eff661b4112565383ee7170c](https://user-images.githubusercontent.com/90567603/146562622-dd57a54c-6310-4370-b6fa-fd04003edb24.jpg)
+![4f0d3b46bbf25fc22aeefbd79ca9469](https://user-images.githubusercontent.com/90567603/146562565-d3f1780b-086e-4c4f-9984-d5f4815fef8c.jpg)
